@@ -1,0 +1,162 @@
+Loss at epoch 500  is 74.605
+Loss at epoch 1000  is 70.382
+Loss at epoch 5000  is 57.139
+साथ is close to आर 
+हुए is close to दबाकर 
+दिया is close to शिष्ट 
+Loss at epoch 10000  is 49.307
+साथ is close to आर 
+हुए is close to दबाकर 
+दिया is close to शिष्ट 
+Loss at epoch 15000  is 41.692
+साथ is close to आर 
+हुए is close to नौकर 
+दिया is close to शिष्ट 
+Loss at epoch 20000  is 34.049
+साथ is close to आर 
+हुए is close to दबाकर 
+दिया is close to शिष्ट 
+Loss at epoch 25000  is 27.952
+साथ is close to आर 
+हुए is close to दबाकर 
+दिया is close to शिष्ट 
+Loss at epoch 30000  is 23.482
+साथ is close to आर 
+हुए is close to दबाकर 
+दिया is close to शिष्ट 
+Loss at epoch 35000  is 20.189
+साथ is close to आर 
+हुए is close to दौड़ते 
+दिया is close to शिष्ट 
+Loss at epoch 40000  is 17.700
+साथ is close to आर 
+हुए is close to दौड़ते 
+दिया is close to शिष्ट 
+Loss at epoch 45000  is 15.758
+साथ is close to आर 
+हुए is close to दौड़ते 
+दिया is close to शिष्ट 
+Loss at epoch 50000  is 14.204
+साथ is close to आर 
+हुए is close to नौकर 
+दिया is close to महाविद्यालय 
+Loss at epoch 55000  is 12.933
+साथ is close to आर 
+हुए is close to दौड़ते 
+दिया is close to महाविद्यालय 
+Loss at epoch 60000  is 11.879
+साथ is close to आर 
+हुए is close to लिखित 
+दिया is close to महाविद्यालय 
+Loss at epoch 65000  is 10.990
+साथ is close to खोदकर 
+हुए is close to यूरेनियम 
+दिया is close to गाथा 
+Loss at epoch 70000  is 10.234
+साथ is close to साब 
+हुए is close to सीधे 
+दिया is close to गाथा 
+Loss at epoch 75000  is 9.585
+साथ is close to इस्लामी 
+हुए is close to दौड़ते 
+दिया is close to मजबूर 
+Loss at epoch 80000  is 9.011
+साथ is close to पूर्ण 
+हुए is close to उपरांत 
+दिया is close to श्रेणी 
+Loss at epoch 85000  is 8.501
+साथ is close to ब्याजदर 
+हुए is close to निर्मल 
+दिया is close to पहुंचता 
+Loss at epoch 90000  is 8.046
+साथ is close to बारी 
+हुए is close to निर्मल 
+दिया is close to विनम्र 
+Loss at epoch 95000  is 7.640
+साथ is close to हमला 
+हुए is close to निर्मल 
+दिया is close to फ्रेंच 
+Loss at epoch 100000  is 7.275
+साथ is close to बोनस 
+हुए is close to निर्मल 
+दिया is close to पतली 
+Loss at epoch 105000  is 6.945
+साथ is close to पी 
+हुए is close to जाताहै 
+दिया is close to झुककर 
+Loss at epoch 110000  is 6.644
+साथ is close to ब्याजदर 
+हुए is close to निर्मल 
+दिया is close to सशक्त 
+Loss at epoch 115000  is 6.369
+साथ is close to तट 
+हुए is close to फैसले 
+दिया is close to फैसले 
+Loss at epoch 120000  is 6.115
+साथ is close to तट 
+हुए is close to दूत 
+दिया is close to डिब्बा 
+Loss at epoch 125000  is 5.883
+साथ is close to इस्लामी 
+हुए is close to घुसने 
+दिया is close to डिब्बा 
+Loss at epoch 130000  is 5.669
+साथ is close to तट 
+हुए is close to हुए 
+दिया is close to विनम्र 
+Loss at epoch 135000  is 5.471
+साथ is close to तट 
+हुए is close to मांगी 
+दिया is close to विनम्र 
+Loss at epoch 140000  is 5.285
+साथ is close to इमारतों 
+हुए is close to बताता 
+दिया is close to ख़राब 
+Loss at epoch 145000  is 5.115
+साथ is close to बारी 
+हुए is close to मांगी 
+दिया is close to झुककर 
+Loss at epoch 150000  is 4.955
+साथ is close to तट 
+हुए is close to मांगी 
+दिया is close to बाध्य 
+Loss at epoch 155000  is 4.805
+साथ is close to कबायली 
+हुए is close to मांगी 
+दिया is close to ख़राब 
+Loss at epoch 160000  is 4.665
+साथ is close to प्रसव 
+हुए is close to मांगी 
+दिया is close to ख़राब 
+Loss at epoch 165000  is 4.532
+साथ is close to तट 
+हुए is close to मांगी 
+दिया is close to जातीहै 
+Loss at epoch 170000  is 4.409
+साथ is close to प्रसव 
+हुए is close to हुए 
+दिया is close to विहीन 
+Loss at epoch 175000  is 4.292
+साथ is close to प्रसव 
+हुए is close to पैसों 
+दिया is close to चुनौतियों 
+Loss at epoch 180000  is 4.183
+साथ is close to निमित्त 
+हुए is close to मनोविज्ञान 
+दिया is close to दिया 
+Loss at epoch 185000  is 4.078
+साथ is close to साथ 
+हुए is close to अवहेलना 
+दिया is close to दिया 
+Loss at epoch 190000  is 3.979
+साथ is close to ईई 
+हुए is close to शहद 
+दिया is close to 80 
+Loss at epoch 195000  is 3.885
+साथ is close to निमित्त 
+हुए is close to शहद 
+दिया is close to कालमें 
+Loss at epoch 200000  is 3.796
+साथ is close to ईई 
+हुए is close to कमाया 
+दिया is close to इलाकों 
